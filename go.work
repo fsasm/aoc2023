@@ -3,4 +3,5 @@ go 1.21
 use (
 	./day1
 	./day2
+	./day3
 )
